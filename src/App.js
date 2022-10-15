@@ -1,9 +1,10 @@
-
 import './App.css';
+import Dictionary from "./Dictionary"
 
 export default function App() {
   return (
     <div className="App">
+      <div className='container'>
       <header className="App-header">
         
         <p>
@@ -11,6 +12,13 @@ export default function App() {
         </p>
  
       </header>
+      <main>
+        <Dictionary />
+      </main>
+      <footer className='text-center'>
+        Coded by Kristy Leckie
+     </footer>
+    </div>
     </div>
   );
 }
