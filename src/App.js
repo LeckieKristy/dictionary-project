@@ -7,9 +7,9 @@ export default function App() {
       <div className='container'>
       <header className="App-header">
         
-        <p>
-          hello
-        </p>
+        <h1 className="text-center">
+         Dictionary App
+        </h1>
  
       </header>
       <main>
