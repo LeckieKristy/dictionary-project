@@ -8,15 +8,16 @@ export default function App() {
       <header className="App-header">
         
         <h1 className="text-center">
-         Dictionary App
+        What·cha·ma·call·it 
         </h1>
+       
  
       </header>
       <main>
         <Dictionary />
       </main>
-      <footer className='text-center'>
-        Coded by Kristy Leckie
+      <footer className='footer'>
+        Coded by Kristy Leckie and hosted on <a href="https://github.com/LeckieKristy/dictionary-project"> GitHub</a>
      </footer>
     </div>
     </div>

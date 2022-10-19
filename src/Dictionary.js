@@ -28,7 +28,8 @@ return (
     
     <form onSubmit={search}>
         <input type="search"
-         autoFocus={true}
+         
+         placeholder="Search for a word..."
          onChange={handleKeywordChange}/>
     </form>
     
