@@ -17,7 +17,7 @@ export default function App() {
         <Dictionary />
       </main>
       <footer className='footer'>
-        Coded by Kristy Leckie and hosted on <a href="https://github.com/LeckieKristy/dictionary-project"> GitHub</a>
+        Coded by Kristy Leckie and hosted on <a href="https://github.com/LeckieKristy/dictionary-project" target="_blank"> GitHub</a>
      </footer>
     </div>
     </div>
