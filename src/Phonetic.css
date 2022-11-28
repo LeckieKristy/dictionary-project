@@ -1,0 +1,16 @@
+.Phonetic a {
+    color: #868B8E;
+    font-weight: normal;
+    margin-right: 15px;
+    font-size: 14px;
+    line-height: 17px;
+    padding: 8px 18px;
+    border: 1px solid #dddddd;
+    border-radius: 50px;
+    text-decoration: none;
+  }
+
+  .Phonetic h2{
+
+    color:#868B8E
+  }

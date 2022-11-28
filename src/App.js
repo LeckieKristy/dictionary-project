@@ -8,7 +8,7 @@ export default function App() {
       <header className="App-header">
         
         <h1 className="text-center">
-        What·cha·ma·call·it 
+       Dictionary App
         </h1>
        
  
