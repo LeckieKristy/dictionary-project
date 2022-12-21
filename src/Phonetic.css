@@ -1,16 +1,18 @@
 .Phonetic a {
-    color: #868B8E;
-    font-weight: normal;
-    margin-right: 15px;
-    font-size: 14px;
-    line-height: 17px;
-    padding: 8px 18px;
-    border: 1px solid #dddddd;
-    border-radius: 50px;
-    text-decoration: none;
-  }
+  color: #868b8e;
+  background-color: #dddddd;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  padding: 10px 15px;
+  border: 1px solid #040303;
+  border-radius: 50px;
+  text-decoration: none;
+}
 
-  .Phonetic h2{
-
-    color:#868B8E
-  }
+.Phonetic h2 {
+  color: #868b8e;
+}
+.Phonetic {
+  margin: 30px;
+}
